@@ -1,0 +1,31 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch master
+# Your branch is up to date with 'origin/master'.
+#
+# Changes not staged for commit:
+#	deleted:    ../../../../.gitignore
+#	deleted:    ../../../../README.md
+#	deleted:    ../../../../asdf/asdf
+#
+# Untracked files:
+#	../../../../.VolumeIcon.icns
+#	../../../../.file
+#	../../../../Applications/
+#	../../../../Library/
+#	../../../../System/
+#	../../../../Users/
+#	../../../../Volumes/
+#	../../../../bin/
+#	../../../../dev/
+#	../../../../etc
+#	../../../../home
+#	../../../../opt/
+#	../../../
+#	../../../../sbin/
+#	../../../../tmp
+#	../../../../usr/
+#	../../../../var
+#

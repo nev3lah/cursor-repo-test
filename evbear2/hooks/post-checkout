@@ -1,0 +1,5 @@
+#!/bin/sh
+echo '=================================='
+echo ' OOPSIE POOPSIE '
+echo '=================================='
+echo "oppsie poosie" > /tmp/yofi.txt

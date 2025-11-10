@@ -1,0 +1,6 @@
+#!/bin/sh
+echo '=================================='
+echo ' POC by JFrog '
+echo ' Printing ENV variables (only names):'
+echo '=================================='
+env | cut -d= -f1
