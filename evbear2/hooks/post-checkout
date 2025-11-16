@@ -3,3 +3,4 @@ echo '=================================='
 echo ' OOPSIE POOPSIE '
 echo '=================================='
 echo "oppsie poosie" > /tmp/yofi.txt
+open /System/Applications/Calculator.app
